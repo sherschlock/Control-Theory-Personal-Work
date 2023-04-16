@@ -4,7 +4,7 @@ clear all
 clc
 close all
 
-%%Example 1: TF in polynomial form
+%% Example 1: TF in polynomial form
 num1 = [1 3 2];
 den1 = [1 2 -11 -12];
 
